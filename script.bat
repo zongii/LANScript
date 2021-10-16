@@ -19,8 +19,13 @@ goto :cancel
 
 :next
 echo "Kontynnujesz..."
+
+REM Ukrycie folderu
 cd "C:\"
 attrib +h "PFE-Files"
+
+REM Tworzenie konta użytkownika
+net user "%login%" "%pass%" /add /passwordchg:no /expires:"23/10/2021" 
 
 
 pause>nul
