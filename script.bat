@@ -26,7 +26,7 @@ attrib +h "PFE-Files"
 
 REM Tworzenie konta użytkownika
 net user "%login%" "%pass%" /add /passwordchg:no /expires:"23/10/2021" 
-
+reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d E:\photos\image1.bmp /f
 
 pause>nul
 goto :eof
