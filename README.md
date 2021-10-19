@@ -1,6 +1,8 @@
 # LANScript
 SCRIPTS for Marvo Cup LAN
 
+# Poza przygotowaniami samego sprzętu należy przy każdym stanowisku zostawić karteczkę z hasłami do konta i do Discorda
+
 # SETUP
 1. Pobierz i rozpakuj repozytorium na komputerze administratora.
 2. Udostpnij wszystkie pliki w sieci lokalnej
