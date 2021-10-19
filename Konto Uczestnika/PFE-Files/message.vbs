@@ -1,0 +1,1 @@
+msgbox "Witaj na LANowym turnieju Marvo Cup League of Legends! Nim zaczniesz koniecznie sprawdz plik z instrukcjami na pulpicie. Powodzenia ! ;)", 64, "Polska Federacja Esportowa"
