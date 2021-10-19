@@ -1,7 +1,7 @@
 # LANScript
 SCRIPTS for Marvo Cup LAN
 
-#SETUP
+# SETUP
 1. Pobierz i rozpakuj repozytorium na komputerze administratora.
 2. Udostpnij wszystkie pliki w sieci lokalnej
 3. Na komputerach uczestnikow uruchom skrypt "tworzenie-konta.bat" z uprawnieniami Administratora.
