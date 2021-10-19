@@ -18,4 +18,5 @@ SCRIPTS for Marvo Cup LAN
 - Skrypt ukryje folder "PFE-Files"
 - Skrypt automatycznie ustawi tapetę
 
-UWAGA! Zmiany będą widocze dopiero przy ponownym logowaniu.
+# UWAGA! Zmiany będą widocze dopiero przy ponownym logowaniu.
+# Jeśli będziesz potrzebował dostać się do tego ukrytego folderu, przejdź do niego przez ścieżkę "C:/PFE-Files"
